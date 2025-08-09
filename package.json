@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "cd shopify-next && npm install && npm run build",
+    "build": "npm install && npm run build",
     "start": "node server.js"
   }
 }
